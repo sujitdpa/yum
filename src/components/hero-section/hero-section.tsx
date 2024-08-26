@@ -13,7 +13,7 @@ export const HeroSection = ({ className }: HeroSectionProps) => {
             <div className={styles.content}>
                 <div className={styles.leftSideContainer}>
                     <h1 className={styles.heading}>
-                        Get your food delivered in under half an hour
+                        Get your best food delivered in under half an hour
                     </h1>
                     <div className={styles.locationSection}>
                         <AddressPicker />
